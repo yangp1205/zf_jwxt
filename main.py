@@ -2,10 +2,9 @@
 # -*- encoding: utf-8 -*-
 '''
 @File    :   main.py
-@Time    :   2019/04/07 15:15:18
-@Author  :   yangp
 @Version :   1.0
-@Contact :   yangp1205@163.com
+@Time    :   2019/04/07 15:15:18
+
 @Desc    :   Please read Documents
 '''
 
