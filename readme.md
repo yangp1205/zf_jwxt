@@ -7,5 +7,5 @@
    2. 获取公钥地址：获取公钥（modulus,exponent）
    3. 登陆请求发送地址：获取cookie
    4. 登陆后重定向地址：获取内容
-4. RSA加密通过网页的js脚本生成，在python3中的算法感谢分享[EddieIvan01](https://github.com/EddieIvan01/analog-login.git)
+4. RSA加密通过网页的js脚本生成，在python3中的算法感谢[EddieIvan01](https://github.com/EddieIvan01/analog-login.git)的分享
 
